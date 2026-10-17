@@ -13,7 +13,7 @@ A UX/UI design case study exploring how a connected digital experience can make 
 
 <br>
 
-[View Figma Prototype](YOUR_FIGMA_LINK) · [View Full Case Study](https://abrarayman27.github.io/soulsupport-ux-case-study/)
+[View Figma Prototype](https://www.figma.com/proto/sr5rklT5eEoCt0taP5sclI/Soul-Support-App?node-id=11-1459&viewport=-477%2C682%2C0.09&t=SlLwomeVop0m6pnj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1459%3A2311&page-id=0%3A1) · [View Full Case Study](https://abrarayman27.github.io/soulsupport-ux-case-study/)
 
 </div>
 
