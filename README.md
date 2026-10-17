@@ -189,7 +189,7 @@ Further work could explore:
 ## Project Resources
 
 - **Full case study:** [Explore the project](https://abrarayman27.github.io/soulsupport-ux-case-study/)
-- **Figma prototype:** [View the design](https://www.figma.com/proto/sr5rklT5eEoCt0taP5sclI/Soul-Support-App?node-id=1495-2312&viewport=-477%2C682%2C0.09&t=SlLwomeVop0m6pnj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1459%3A2311&page-id=0%3A1)
+- **Figma prototype:** [View the design](https://www.figma.com/proto/sr5rklT5eEoCt0taP5sclI/Soul-Support-App?node-id=11-1459&viewport=-477%2C682%2C0.09&t=SlLwomeVop0m6pnj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1459%3A2311&page-id=0%3A1)
 - **Project presentation:** [View presentation](YOUR_PRESENTATION_LINK)
 
 ---
