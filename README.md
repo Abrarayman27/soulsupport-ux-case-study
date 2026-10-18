@@ -129,13 +129,13 @@ Use this section to present selected screens from the actual Figma design. Prior
 
 <p align="center">
   <img src="Carousel/01-intro.png" alt="Project introduction" width="32%">
-  <img src="carousel/04-research-interview.png" alt="User research and interviews" width="32%">
-  <img src="carousel/07-architecture.png" alt="Information architecture" width="32%">
+  <img src="Carousel/04-research-interview.png" alt="User research and interviews" width="32%">
+  <img src="Carousel/07-architecture.png" alt="Information architecture" width="32%">
 </p>
 
 <p align="center">
-  <img src="carousel/10-palette.png" alt="Visual design system and color palette" width="32%">
-  <img src="carousel/19-closing.png" alt="Project conclusion" width="32%">
+  <img src="Carousel/10-palette.png" alt="Visual design system and color palette" width="32%">
+  <img src="Carousel/19-closing.png" alt="Project conclusion" width="32%">
 
 ---
 
