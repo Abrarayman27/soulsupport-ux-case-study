@@ -127,9 +127,12 @@ Use this section to present selected screens from the actual Figma design. Prior
 </p>
 
 <p align="center">
-  <img src="assets/soulsupport-screen-01.png" alt="SoulSupport interface screen 1" width="32%">
-  <img src="assets/soulsupport-screen-02.png" alt="SoulSupport interface screen 2" width="32%">
-  <img src="assets/soulsupport-screen-03.png" alt="SoulSupport interface screen 3" width="32%">
+  <img src="carousel/01-intro.png" alt="SoulSupport interface screen 1" width="32%">
+  <img src="carousel/04-research-interview.png" alt="SoulSupport interface screen 3" width="32%">
+  <img src="carousel/07-architecture.png" alt="SoulSupport interface screen 2" width="32%">
+  <img src="carousel/10-palette.png" alt="SoulSupport interface screen 3" width="32%">
+  <img src="carousel/19-closing.png" alt="SoulSupport interface screen 3" width="32%">
+ 
 </p>
 
 ---
