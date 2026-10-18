@@ -121,19 +121,21 @@ These represent conceptual areas of the project; the final scope and implementat
 Use this section to present selected screens from the actual Figma design. Prioritize screens that communicate the product's visual identity, information architecture, and most important user journeys.
 
 <!-- Replace the image paths below with screenshots uploaded to your repository. -->
-
 <p align="center">
   <img src="assets/soulsupport-cover.png" alt="SoulSupport project cover" width="100%">
 </p>
 
+<h2 align="center">Project Gallery</h2>
+
 <p align="center">
-  <img src="assets/carousel/01-intro.png" alt="SoulSupport interface screen 1" width="32%">
-  <img src="assets/carousel/04-research-interview.png" alt="SoulSupport interface screen 3" width="32%">
-  <img src="assets/carousel/07-architecture.png" alt="SoulSupport interface screen 2" width="32%">
-  <img src="assets/carousel/10-palette.png" alt="SoulSupport interface screen 3" width="32%">
-  <img src="assets/carousel/19-closing.png" alt="SoulSupport interface screen 3" width="32%">
- 
+  <img src="assets/carousel/01-intro.png" alt="Project introduction" width="32%">
+  <img src="assets/carousel/04-research-interview.png" alt="User research and interviews" width="32%">
+  <img src="assets/carousel/07-architecture.png" alt="Information architecture" width="32%">
 </p>
+
+<p align="center">
+  <img src="assets/carousel/10-palette.png" alt="Visual design system and color palette" width="32%">
+  <img src="assets/carousel/19-closing.png" alt="Project conclusion" width="32%">
 
 ---
 
